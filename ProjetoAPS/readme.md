@@ -7,10 +7,10 @@ Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** 
 
 ### 👥 **WHO** (Quem?)
 - **Desenvolvedor(es):**
-- João Guilherme Sousa Sales ( https://github.com/joaoguilherme-pro )
+- [João Guilherme Sousa Sales]( https://github.com/joaoguilherme-pro )
 - Enzo cortes de Lima
 - Kaio
-- Samuel Borges Cordeiro
+- [Samuel Borges Cordeiro](https://github.com/samuelsbc220)
 - **Instituição:** Centro Universitário UDF 
 - **Disciplina:** Engenharia de Software
 
